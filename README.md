@@ -19,18 +19,10 @@ If you like a cuter and the more adorable theme, check out my [Pink Topaz](https
 ```
 ## Screenshots
 ### Dark Mode
-![屏幕截图(68)|690x388](upload://3Hh9KuXupcEeeDTRk03XGyfq0tv.png) 
-![屏幕截图(65)|690x388](upload://a2RxvaciUOupI6TOY1sdJSDHMlw.png) 
-![屏幕截图(60)|690x388](upload://v0MZOHmtTcj4oiXVMoc2IAhcHcN.png) 
-![屏幕截图(83)|690x388](upload://69oa3YcRAyUEuWHKJFDaNBeBRMj.png) 
-![屏幕截图(84)|690x388](upload://sQrmPUTlibstFm1KDEaOvuuGJJ1.png) 
-![屏幕截图(88)|690x388](upload://rxMGRBhAdpGf3if9gzCnP0a5tYc.png) 
+https://forum.obsidian.md/uploads/default/optimized/2X/1/19eae05fbdfa11e41a98130827f589e25d08d905_2_1035x582.png
+
 ***
 ### Light Mode
-![屏幕截图(89)|690x388](upload://kFq8BaG8LmCrKog0a0chXmU55Yl.png) 
-![屏幕截图(85)|690x388](upload://1jOusUDCwt2zH6yGqAiCERGaeWT.png) 
-![屏幕截图(86)|690x388](upload://ldnwLWGu34AL18u03vlemTHNZeF.png) 
-![屏幕截图(59)|690x388](upload://x4VvwwUApCgso5fSU017gT330DP.png) 
-![屏幕截图(66)|690x388](upload://gBIRdAuVaTNimr0vaSSx93t1HI6.png) 
+
 ***
 PS:  Please let me know if I’m not crazy and this theme does add gold bricks in the mind palace. :joy:
