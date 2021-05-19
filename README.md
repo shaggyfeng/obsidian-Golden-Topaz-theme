@@ -19,10 +19,10 @@ If you like a cuter and the more adorable theme, check out my [Pink Topaz](https
 ```
 ## Screenshots
 ### Dark Mode
-https://forum.obsidian.md/uploads/default/optimized/2X/1/19eae05fbdfa11e41a98130827f589e25d08d905_2_1035x582.png
+[](https://forum.obsidian.md/uploads/default/optimized/2X/1/19eae05fbdfa11e41a98130827f589e25d08d905_2_1035x582.png)
 
 ***
 ### Light Mode
-
+[](https://forum.obsidian.md/uploads/default/optimized/2X/7/7466700e613602f16ff48673430f667692c95482_2_1035x582.png)
 ***
 PS:  Please let me know if I’m not crazy and this theme does add gold bricks in the mind palace. :joy:
