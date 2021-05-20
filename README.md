@@ -10,22 +10,18 @@ If you like a cuter and the more adorable theme, check out my [Pink Topaz](https
 [ Golden Topaz theme for Obsidian ](https://github.com/shaggyfeng/obsidian-Golden-Topaz-theme/files/6518916/Golden.Topaz.zip)
 
 ## Change log
-
-```
 - 2021-05-20
-        - Added even more sublime graph view colours.
-        - Now pitures, tables and videos will be in the middle of the page, no 
-           longer on the left side.      
-        - Added even more sublime graph view colours.
-        - changed colours for focus mode when typing in edit mode
-        - text alignment and be adjusted by: Syntax: start | end | left | right | 
-           center | justify | match-parent
+	- Added even more sublime graph view colours.
+	- Now pitures, tables and videos will be in the middle of the page, no longer on the left side.      
+	- Added even more sublime graph view colours.
+	- changed colours for focus mode when typing in edit mode
+	- text alignment and be adjusted by: Syntax: start | end | left | right | center | justify | match-parent
 - 2021-05-19
-        - changed colours for indent-lines for better reading experience.   
+	- changed colours for indent-lines for better reading experience.   
 - 2021-05-18 
 	- added better colours for day planner timeline view when one day 
            has more than 10 tasks.
-```
+		
 ## Screenshots
 Please check out ![Golden Topaz here in Obsidian forum](https://forum.obsidian.md/t/golden-topaz-theme-of-sublime/18489) to see screenshots from the newiest version.
 The following screenshots are from version: 0.4.0
