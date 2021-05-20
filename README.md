@@ -7,17 +7,28 @@ The theme started out as a set of snippets on top of the [Blue Topaz](https://fo
 If you like a cuter and the more adorable theme, check out my [Pink Topaz](https://forum.obsidian.md/t/pink-topaz-theme-for-flowers-and-sweetness/18451). :smiling_face_with_three_hearts:
 
 ## Download
-[ Golden Topaz theme for Obsidian ](https://github.com/shaggyfeng/obsidian-Golden-Topaz-theme/files/6511191/Golden.Topaz.zip)
+[ Golden Topaz theme for Obsidian ](https://github.com/shaggyfeng/obsidian-Golden-Topaz-theme/files/6518916/Golden.Topaz.zip)
 
 ## Change log
 
 ```
+- 2021-05-20
+        - Added even more sublime graph view colours.
+        - Now pitures, tables and videos will be in the middle of the page, no 
+           longer on the left side.      
+        - Added even more sublime graph view colours.
+        - changed colours for focus mode when typing in edit mode
+        - text alignment and be adjusted by: Syntax: start | end | left | right | 
+           center | justify | match-parent
 - 2021-05-19
         - changed colours for indent-lines for better reading experience.   
 - 2021-05-18 
-	- added better colours for day planner timeline view when one day has more than 10 tasks.
+	- added better colours for day planner timeline view when one day 
+           has more than 10 tasks.
 ```
 ## Screenshots
+Please check out ![Golden Topaz here in Obsidian forum](https://forum.obsidian.md/t/golden-topaz-theme-of-sublime/18489) to see screenshots from the newiest version.
+The following screenshots are from version: 0.4.0
 ### Dark Mode
 ![](https://forum.obsidian.md/uploads/default/optimized/2X/1/19eae05fbdfa11e41a98130827f589e25d08d905_2_1035x582.png) 
 ![](https://forum.obsidian.md/uploads/default/optimized/2X/4/46689b26424b67818aa8501875e4f1ec7877e00e_2_1035x582.png) 
