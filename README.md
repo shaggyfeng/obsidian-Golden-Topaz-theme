@@ -1,5 +1,4 @@
 # obsidian-Golden-Topaz-theme
-Golden Topaz theme for Obsidian
 
 This is a theme designed to create a more inspiring, transcendent and sublime environment for reading, thinking and writing in Obsidian.
 
