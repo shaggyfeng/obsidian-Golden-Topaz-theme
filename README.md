@@ -23,6 +23,7 @@ If you like a cuter and the more adorable theme, check out my [Pink Topaz](https
            has more than 10 tasks.
 		
 ## Screenshots
+![](https://github.com/shaggyfeng/obsidian-Golden-Topaz-theme/blob/main/Golden%20Topaz.gif)
 Please check out ![Golden Topaz here in Obsidian forum](https://forum.obsidian.md/t/golden-topaz-theme-of-sublime/18489) to see screenshots from the newiest version.
 The following screenshots are from version: 0.4.0
 ### Dark Mode
