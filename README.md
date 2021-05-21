@@ -24,7 +24,7 @@ If you like a cuter and the more adorable theme, check out my [Pink Topaz](https
 		
 ## Screenshots
 ![](https://github.com/shaggyfeng/obsidian-Golden-Topaz-theme/blob/main/Golden%20Topaz.gif)
-Please check out ![Golden Topaz here in Obsidian forum](https://forum.obsidian.md/t/golden-topaz-theme-of-sublime/18489) to see screenshots from the newiest version.
+Please check out [Golden Topaz here in Obsidian forum](https://forum.obsidian.md/t/golden-topaz-theme-of-sublime/18489) to see screenshots from the newiest version.
 The following screenshots are from version: 0.4.0
 ### Dark Mode
 ![](https://forum.obsidian.md/uploads/default/optimized/2X/1/19eae05fbdfa11e41a98130827f589e25d08d905_2_1035x582.png) 
