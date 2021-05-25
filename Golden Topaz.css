@@ -1,7 +1,7 @@
 /*Golden Topaz for Obsidian  v0.12.3，is a modified version of the Blue Topaz. This modified theme was modified by Mouth On Cloud. Welcome to join our tencent QQ App's obsidian group chat: #774176839 */
 /*金色托帕石是基于蓝色托帕石制作的魔改主题, 由嘴上云制作，欢迎到obsidian的qq群一起愉快折腾。群号：774176839  */
-/*version: 0.6  */
-/*版本：0.6  */
+/*version: 1.0  */
+/*版本：1.0  */
 /*date: 2021-05-20  */
 /*日期：2021-05-20  */
 /*The following codes are from the Blue Topaz.    */
@@ -5014,11 +5014,11 @@ img[alt$="inlR"] {
 }
 /*The following codes belong to the Gold Topaz, which includes all the modifications. This modified theme was modified by Mouth On Cloud. Welcome to join our tencent QQ App's obsidian group chat: #774176839   */
 /*下面的是金色托帕石的魔改部分，也是和原版蓝色托帕石的全部不同部分。[20210518] 嘴上云制作，欢迎到obsidian的qq群找俺一起折腾。群号：774176839  */
-/*version: 0.6  */
-/*版本：0.6  */
+/*version: 1.0  */
+/*版本：1.0  */
 .theme-light {
     --background-primary: #dddbc7;
-    --background-primary-alt: #dddbc7;
+    --background-primary-alt: #fbf0d221;
     --background-secondary: #dddbc7;
     --background-secondary-alt: rgba(0, 0, 0, 0.1);
     --background-accent: #e6eff4;
@@ -5052,21 +5052,21 @@ img[alt$="inlR"] {
     --folder-title: #4c5064;
     --mark-highlight: #4c5064;
     --background-search-result: rgba(0, 0, 0, 0.1);
-    --gray-1: #4c5064;
-    --gray-2: #4c5064;
-    --red: #4c5064;
-    --red-1: #4c5064;
-    --green: #fbf0d2;
-    --darkgreen: #4c5064;
-    --blue: #e6eff4;
-    --darkblue: #4c5064;
-    --purple: #dddbc7;
-    --aqua: #dddbc7;
-    --yellow: #dddbc7;
-    --light-yellow: #dddbc7;
-    --orange: #dddbc7;
-    --light-purple: #dddbc7;
-    --blue-green: #dddbc7;
+    --gray-1: #a6a7a8;
+    --gray-2: #808080;
+    --red: #db4437;
+    --red-1: #a63b58;
+    --green: #0f9d58;
+    --darkgreen: #1a8b8d;
+    --blue: #4285f4;
+    --darkblue: #5667a4;
+    --purple: #a23ef7;
+    --aqua: #63e2fd;
+    --yellow: #f4b400;
+    --light-yellow: #ffe168;
+    --orange: #ff7622;
+    --light-purple: #b77dca;
+    --blue-green: #00b0b5;
     --embed-color: #fbf0d221;
     --search-result-file-title-color: #4c5064;
     --theme-color: #4c5064;
@@ -5080,18 +5080,15 @@ img[alt$="inlR"] {
     --list-ol-block-color: #4c5064;
     --list-ol-number-color: #4c5064;
     --list-ol-hover: #fbf0d2;
-    --stag1: #fbf0d2;
-    --stag2: #dddbc7;
-    --stag3: #007672;
     --tag1: #5667a4;
     --tag2: #007672;
-    --tag3: #786b54;
-    --tag4: #E1B87F;
-    --tag5: #816040;
+    --tag3: #3f73b8;
+    --tag4: #608ec1;
+    --tag5: #786b54;
     --tag6: #6da1dd;
     --tag7: #a29c90;
-    --tag8: #d8d8;
-    --tag9: #2a3d70;
+    --tag8: #1a8b8d;
+    --tag9: #a6a7a8;
     --h1-color: #000000;
     --h2-color: #000000;
     --h3-color: #000000;
@@ -5132,6 +5129,7 @@ img[alt$="inlR"] {
     --event-item-color8: #5883b4;
     --event-item-color9: #6292cb;
     --event-item-color10: #6da1dd;
+         /* I am too noob to touch this part
     --text-gray: #4c5064;
     --text-brown: #4c5064;
     --text-orange: #4c5064;
@@ -5150,6 +5148,7 @@ img[alt$="inlR"] {
     --background-purple: #e6eff4;
     --background-pink: #e6eff4;
     --background-red: #e6eff4;
+    */
     --note-important: #4c5064;
     --note-cloze: #000000;
     --stickies-color-1: #5667a4;
@@ -5169,7 +5168,7 @@ img[alt$="inlR"] {
 .theme-dark {
     --background-primary: #353231;
     --background-primary-alt: #00767224;
-    --background-secondary: #353231;
+    --background-secondary: #383433;
     --background-secondary-alt: #353231;
     --background-accent: #786b54;
     --background-modifier-border: rgba(0, 0, 0, 0.1);
@@ -5205,16 +5204,16 @@ img[alt$="inlR"] {
     --background-search-result: #786b54;
     --gray-1: #353231;
     --gray-2: #786b54;
-    --red: #E1B87F;
-    --red-1: #E1B87F;
-    --orange: #007672;
-    --green: #007672;
+    --red: #f97065;
+    --red-1: #ff4a4a;
+    --orange: #f9944c;
+    --green: #0f9d58;
     --darkgreen: #007672;
-    --aqua: #007672;
-    --purple: #007672;
-    --blue: #007672;
-    --darkblue: #007672;
-    --yellow: #007672;
+    --aqua: #61C8B9;
+    --purple: #ab7fe6;
+    --blue: #198cff;
+    --darkblue: #007aff;
+    --yellow: #f7dc01;
     --light-yellow: #E1B87F;
     --embed-color: #786b540d;
     --search-result-file-title-color: #007672;
@@ -5230,17 +5229,14 @@ img[alt$="inlR"] {
     --list-ol-block-color: #a29c90;
     --list-ol-number-color: #a29c90;
     --list-ol-hover: #007672;
-    --stag1: #007672;
-    --stag2: #E1B87F;
-    --stag3: #EFDBB2;
     --tag1: #007672;
     --tag2: #786b54;
-    --tag3: #60616f;
-    --tag4: #a29c90;
-    --tag5: #979797;
-    --tag6: #4c5064;
+    --tag3: #aa7f39cc;
+    --tag4: #3C4855;
+    --tag5: #674712;
+    --tag6: #60616f;
     --tag7: #7f7272;
-    --tag8: #485462;
+    --tag8: #2F3546;
     --tag9: #393c44;
     --h1-color: #D1CCBD;
     --h2-color: #D1CCBD;
@@ -5282,6 +5278,7 @@ img[alt$="inlR"] {
     --event-item-color8: #0D4a48;
     --event-item-color9: #105553;
     --event-item-color10: #136664;
+      /* I am too noob to touch this part    
     --text-gray: #E1B87F;
     --text-brown: #E1B87F;
     --text-orange: #E1B87F;
@@ -5300,6 +5297,7 @@ img[alt$="inlR"] {
     --background-purple: #007672;
     --background-pink: #007672;
     --background-red: #007672;
+    */
     --note-important: #007672;
     --note-cloze: #E1B87F;
     --stickies-color-1: #007672;
@@ -5355,4 +5353,150 @@ Syntax: none | manual | auto
 }
 .graph-view.color-line-highlight {
   color: #136664;
+}
+/* 显示当前代码块的语言类别 */
+pre {
+    position: relative;
+    line-height: 20px !important;
+}
+
+/* 每个语言单独写 C语言 要写在前面 否则出现覆盖C# C++的问题 */
+pre[class*='language-c']:before {
+    content: "C";
+}
+
+pre[class*='language-py']:before {
+    content: "Python";
+}
+
+pre[class*='language-python']:before {
+    content: "Python";
+}
+
+pre[class*='language-nginx']:before {
+    content: "Nginx";
+}
+
+pre[class*='language-css']:before {
+    content: "Css";
+}
+
+pre[class*='language-javascript']:before {
+    content: "Js";
+}
+
+pre[class*='language-js']:before {
+    content: "Js";
+}
+
+
+pre[class*='language-php']:before {
+    content: "Php";
+}
+
+pre[class*='language-shell']:before {
+    content: "Shell";
+}
+
+pre[class*='language-flow']:before {
+    content: "Flow";
+}
+
+pre[class*='language-sequence']:before {
+    content: "Sequence";
+}
+
+pre[class*='language-sql']:before {
+    content: "Sql";
+}
+
+pre[class*='language-yaml']:before {
+    content: "Yaml";
+}
+
+pre[class*='language-ini']:before {
+    content: "ini";
+}
+
+pre[class*='language-xml']:before {
+    content: "Xml";
+}
+
+pre[class*='language-git']:before {
+    content: "Git";
+}
+
+pre[class*='language-cs']:before {
+    content: "C#";
+}
+
+pre[class*='language-cpp']:before {
+    content: "C++";
+}
+
+pre[class*='language-java']:before {
+    content: "Java";
+}
+
+pre[class*='language-html']:before {
+    content: "Html";
+}
+
+pre[class*='language-txt']:before {
+    content: "txt";
+}
+
+/* Code */
+.theme-light :not(pre) > code[class*="language-"],
+.theme-light pre[class*="language-"] {
+    background-color: var(--background-primary-alt);
+    /* 代码块 圆角 阴影 */
+    border-radius: 6px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: rgb(0 0 0/15%) 0px 2px 10px;
+}
+
+.theme-light code[class*="language-"],
+.theme-light pre[class*="language-"] {
+    color: #4c5064 !important;
+    text-shadow: none;
+    font-family: var(--mono-font), var(--cjk-font);
+}
+.theme-dark code[class*="language-"],
+.theme-dark pre[class*="language-"] {
+    color: #D1CCBD !important;
+    text-shadow: none;
+    font-family: var(--mono-font), var(--cjk-font);
+}
+
+.theme-dark .token.keyword, .theme-light .token.keyword {
+    color: #3b78e7 !important;
+    font-weight: 600;
+}
+
+.theme-dark .function, .theme-light .function {
+    color: #9c27b0 !important;
+}
+
+.theme-dark .number, .theme-light .number {
+    color: #d81b60 !important;
+}
+
+.theme-dark .builtin, .theme-light .builtin {
+    color: #e36209 !important;
+    font-weight: bold;
+}
+
+.theme-light .operator, .theme-light .punctuation {
+    color: #708090 !important;
+}
+
+.theme-dark .operator, .theme-dark .punctuation {
+    color: rgb(228, 220, 220) !important;
+}
+
+.theme-dark .comment, .theme-light .comment {
+    font-size: 0.9em !important;
+    font-weight: 450;
 }
