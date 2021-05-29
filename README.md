@@ -11,7 +11,7 @@ If you like a cuter and the more adorable theme, check out my [Pink Topaz](https
 
 ## Change log
 - 2021-05-28
-	- Improved highlight colours for tables. Now Users can see what read highlights on tables.
+	- Improved highlight colours for tables. Now Users can read highlights on tables better.
 - 2021-05-25
 	- Improved all 13 core coding syntax colours
 	- Improved some tag colours
