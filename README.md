@@ -10,6 +10,8 @@ If you like a cuter and the more adorable theme, check out my [Pink Topaz](https
 [ Golden Topaz theme for Obsidian ](https://github.com/shaggyfeng/obsidian-Golden-Topaz-theme/files/6537705/Golden.Topaz.zip)
 
 ## Change log
+- 2021-05-28
+	- Improved highlight colours for tables. Now Users can see what read highlights on tables.
 - 2021-05-25
 	- Improved all 13 core coding syntax colours
 	- Improved some tag colours
