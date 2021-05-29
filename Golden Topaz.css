@@ -5109,8 +5109,8 @@ img[alt$="inlR"] {
     --table-border-color: #4c5064;
     --table-thead-background-color: #dddbc7;
     --table-hover-raw-color: #dddbc7;
-    --table-hover-color: #fbf0d2;
-    --table-hover-thead-color: #fbf0d2;
+    --table-hover-color: #fbf0d28a;
+    --table-hover-thead-color: #fbf0d28a;
     --calendar-week-color: #4c5064;
     --calendar-week-hover: #4c5064;
     --calendar-week-background-color: #e6eff4;
@@ -5258,8 +5258,8 @@ img[alt$="inlR"] {
     --table-border-color: #c0c0c0;
     --table-thead-background-color: #786b54;
     --table-hover-raw-color: #353231;
-    --table-hover-color: #EFDBB2;
-    --table-hover-thead-color: #EFDBB2;
+    --table-hover-color: #efdbb2e3;
+    --table-hover-thead-color: #efdbb2e3;
     --calendar-week-color: #E1B87F;
     --calendar-week-hover: #786b54;
     --calendar-week-background-color: #007672;
