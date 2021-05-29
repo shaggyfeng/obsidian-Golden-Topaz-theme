@@ -7,7 +7,7 @@ The theme started out as a set of snippets on top of the [Blue Topaz](https://fo
 If you like a cuter and the more adorable theme, check out my [Pink Topaz](https://forum.obsidian.md/t/pink-topaz-theme-for-flowers-and-sweetness/18451). :smiling_face_with_three_hearts:
 
 ## Download
-[ Golden Topaz theme for Obsidian ](https://github.com/shaggyfeng/obsidian-Golden-Topaz-theme/files/6537705/Golden.Topaz.zip)
+[ Golden Topaz theme for Obsidian ](https://github.com/shaggyfeng/obsidian-Golden-Topaz-theme/releases/download/1.0.1/Golden.Topaz.zip)
 
 ## Change log
 - 2021-05-28
