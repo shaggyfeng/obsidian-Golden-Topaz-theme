@@ -9,6 +9,8 @@ If you like a cuter and the more adorable theme, check out my [Pink Topaz](https
 ## Download
 [ Golden Topaz theme for Obsidian ](https://github.com/shaggyfeng/obsidian-Golden-Topaz-theme/releases/download/1.0.1/Golden.Topaz.zip)
 
+You'll be able to find this theme in the Obsidian's community themes browser under Settings > Appearance > Themes.
+
 ## Change log
 - 2021-05-28
 	- Improved highlight colours for tables. Now Users can read highlights on tables better.
