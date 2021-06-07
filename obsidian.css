@@ -5498,7 +5498,3 @@ pre[class*='language-txt']:before {
     font-size: 0.9em !important;
     font-weight: 450;
 }
-.markdown-preview-view mark {
-    background-color: #FBF0D0;
-    color: var(--text-normal);
-}
