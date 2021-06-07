@@ -5037,7 +5037,7 @@ img[alt$="inlR"] {
     --accent-strong: #4c5064;
     --text-error: #4c5064;
     --text-error-hover: #4c5064;
-    --text-highlight-bg: #fff3a3;
+    --text-highlight-bg: #FBF0D0;
     --text-selection: #fbf0d2;
     --text-on-accent: #FBF0D0;
     --interactive-normal: #dddbc7;
@@ -5198,7 +5198,7 @@ img[alt$="inlR"] {
     --panel-border-color: #353231;
     --search-text: #007672;
     --folder-title: #007672;
-    --mark-highlight: #E1B87F;
+    --mark-highlight: #007672;
     --background-search-result: #786b54;
     --gray-1: #353231;
     --gray-2: #786b54;
