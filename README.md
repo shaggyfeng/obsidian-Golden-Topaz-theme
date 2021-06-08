@@ -7,11 +7,13 @@ The theme started out as a set of snippets on top of the [Blue Topaz](https://fo
 If you like a cuter and more adorable theme, check out my [Pink Topaz](https://forum.obsidian.md/t/pink-topaz-theme-for-flowers-and-sweetness/18451). :smiling_face_with_three_hearts:
 
 ## Download
-[ Golden Topaz theme for Obsidian ](https://github.com/shaggyfeng/obsidian-Golden-Topaz-theme/files/6611384/Golden.Topaz.zip)
+[ Golden Topaz theme for Obsidian ](https://github.com/shaggyfeng/obsidian-Golden-Topaz-theme/files/6618759/Golden.Topaz.zip)
 
 You can find this theme in the Obsidian's community themes browser under Settings > Appearance > Themes.
 
 ## Change log
+- 2021-06-08
+	- Changed the colour of bolded words to a brighter one in light theme.
 - 2021-06-07
 	- Improved colour for markdown highlight syntax.
 - 2021-06-01
